@@ -1,0 +1,28 @@
+addPage stack_datastructure
+queryFindPagesWhichContainWord delhi
+addPage stackoverflow
+queryFindPagesWhichContainWord stack
+addPage auckland_stack
+queryFindPagesWhichContainWord wikipedia
+addPage stackmagazine
+queryFindPositionsOfWordInAPage stack stackoverflow
+queryFindPagesWhichContainWord allain
+addPage stack_cprogramming
+queryFindPagesWhichContainWord allain
+queryFindPagesWhichContainWord C
+queryFindPagesWhichContainWord C++
+addPage stack_oracle
+queryFindPagesWhichContainWord jdk
+addPage cmu_stack
+queryFindPagesWhichContainWord function
+addPage stacklighting
+queryFindPagesWhichContainWord class
+addPage stacks_and_queues
+addPage studytonight
+addPage geeks_quiz
+queryFindPagesWhichContainAllWords data first
+queryFindPagesWhichContainAnyOfTheseWords language proposed Fiera
+queryFindPagesWhichContainPhrase simplest application
+queryFindPositionsOfWordInAPage stack cmu_stack
+queryFindPagesWhichContainWord stack
+queryFindPositionsOfWordInAPage stack stacks_and_queues

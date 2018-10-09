@@ -1,0 +1,18 @@
+addPage stack_datastructure
+queryFindPagesWhichContainWord stack
+addPage references
+queryFindPagesWhichContainWord wikipedia
+addPage stack_datastructure_wiki
+queryFindPositionsOfWordInAPage stack stack_overflow
+queryFindPagesWhichContainWord allain
+addPage stack_cprogramming
+queryFindPagesWhichContainWord allain
+queryFindPagesWhichContainWord C++
+addPage stack_oracle
+queryFindPagesWhichContainWord jdk
+addPage stackoverflow
+queryFindPagesWhichContainWord function
+addPage stacklighting
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki
+addPage stackmagazine
+queryFindPagesWhichContainWord magazines

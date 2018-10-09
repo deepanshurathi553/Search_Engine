@@ -1,0 +1,28 @@
+addPage stack_datastructure - exception:- File 'stack_datastructure' not found in webpages folder.
+queryFindPagesWhichContainWord delhi - No webpage contains the word delhi
+addPage stackoverflow - Page 'stackoverflow' added.
+queryFindPagesWhichContainWord stack - stackoverflow
+addPage auckland_stack - Page 'auckland_stack' added.
+queryFindPagesWhichContainWord wikipedia - No webpage contains the word wikipedia
+addPage stackmagazine - Page 'stackmagazine' added.
+queryFindPositionsOfWordInAPage stack stackoverflow - 1
+queryFindPagesWhichContainWord allain - No webpage contains the word allain
+addPage stack_cprogramming - Page 'stack_cprogramming' added.
+queryFindPagesWhichContainWord allain - stack_cprogramming
+queryFindPagesWhichContainWord C - stack_cprogramming
+queryFindPagesWhichContainWord C++ - stack_cprogramming,stackoverflow
+addPage stack_oracle - Page 'stack_oracle' added.
+queryFindPagesWhichContainWord jdk - stack_oracle
+addPage cmu_stack - Page 'cmu_stack' added.
+queryFindPagesWhichContainWord function - stack_cprogramming,stackoverflow
+addPage stacklighting - Page 'stacklighting' added.
+queryFindPagesWhichContainWord class - stack_oracle
+addPage stacks_and_queues - Page 'stacks_and_queues' added.
+addPage studytonight - Page 'studytonight' added.
+addPage geeks_quiz - Page 'geeks_quiz' added.
+queryFindPagesWhichContainAllWords data first - stack_cprogramming,studytonight,geeks_quiz,stacks_and_queues,cmu_stack
+queryFindPagesWhichContainAnyOfTheseWords language proposed Fiera - stackmagazine,stack_cprogramming,cmu_stack
+queryFindPagesWhichContainPhrase simplest application - studytonight,cmu_stack
+queryFindPositionsOfWordInAPage stack cmu_stack - 115,138,149,157,159,174,188,204,225,238,240,256,263,275,285,306,372,386,400,412
+queryFindPagesWhichContainWord stack - geeks_quiz,studytonight,stackmagazine,stackoverflow,stacklighting,stack_cprogramming,stacks_and_queues,stack_oracle,auckland_stack,cmu_stack
+queryFindPositionsOfWordInAPage stack stacks_and_queues - 2,21,41,56,71,91,118,130,139,147,155

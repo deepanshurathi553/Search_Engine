@@ -1,0 +1,18 @@
+addPage stack_datastructure - exception:- File stack_datastructure not found in webpages folder
+queryFindPagesWhichContainWord stack-No webpage contains word stack
+addPage references - Page references added.
+queryFindPagesWhichContainWord wikipedia-references
+addPage stack_datastructure_wiki - Page stack_datastructure_wiki added.
+queryFindPositionsOfWordInAPage stack stack_overflow-exception:-Page stack_overflow does not exists in the database
+queryFindPagesWhichContainWord allain-No webpage contains word allain
+addPage stack_cprogramming - Page stack_cprogramming added.
+queryFindPagesWhichContainWord allain-stack_cprogramming
+queryFindPagesWhichContainWord C++-stack_cprogramming
+addPage stack_oracle - Page stack_oracle added.
+queryFindPagesWhichContainWord jdk-stack_oracle
+addPage stackoverflow - Page stackoverflow added.
+queryFindPagesWhichContainWord function-stack_datastructure_wiki,stack_cprogramming,stackoverflow
+addPage stacklighting - Page stacklighting added.
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki-1,14,71,130,142,153,170,191,204,208,223,228,256,267,289,294,326,336,350,363,382,395,409,436,441,459
+addPage stackmagazine - Page stackmagazine added.
+queryFindPagesWhichContainWord magazines-stackmagazine
